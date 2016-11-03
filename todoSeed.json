@@ -1,0 +1,30 @@
+{
+"items":{
+  "item0":{
+    "task": "mow the lawn",
+    "isCompleted": true,
+    "uid":""
+  },
+  "item1":{
+    "task": "eat chips",
+    "isCompleted": false,
+    "uid":""
+  },
+  "item2":{
+    "task": "take a nap",
+    "isCompleted": false,
+    "uid":""
+    }
+  },
+  "users":{
+    "user1":{
+      "username": "a",
+      "uid":""
+    },
+    "user2":{
+      "username": "b",
+      "uid":""
+    }
+  }
+}
+
